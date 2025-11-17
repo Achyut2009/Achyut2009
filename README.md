@@ -1,117 +1,21 @@
-<h1 align="center">Hi 👋, I'm <strong>Achyut Paliwal</strong></h1>
-<h3 align="center">A passionate Full-Stack Web Developer & Mobile App (Android + iOS) Builder</h3>
+<h1 align="center">Hi 👋, I'm Achyut Paliwal</h1>
+<h3 align="center">A 16yo, Full-Stack developer, mobile applications builder, DSA learner.</h3>
 
-<p align="center">🚀 16-year-old developer crafting modern, scalable and visually stunning digital products.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=achyut2009&label=Profile%20views&color=0e75b6&style=flat" alt="achyut2009" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyut2009" alt="achyut2009" /></a> </p>
 
-## 🌟 About Me
+- 🌱 I’m currently learning **React Native + Flutter and Dart**
 
-- 🔭 I’m currently building production-ready **web apps, mobile apps, and full-stack products**  
-- 📱 Skilled in **Android & iOS app development** using Flutter + React Native  
-- 🌐 Professional in **Next.js, React.js, Node.js, APIs, MySQL, MongoDB**  
-- ⚙️ Comfortable with **DSA**, backend architecture, and cloud services  
-- 🧠 Always learning, improving, and pushing boundaries  
-- ✨ I love building bold, modern UI/UX experiences  
+- 💬 Ask me about **react, next, typescript**
 
----
+- 📫 How to reach me **achyutkpaliwal@gmail.com**
 
-## 🤝 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:skydarkteams@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AchyutPaliwal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-
-<!-- Row 1 -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/></a>
-
-<br><br>
-
-<!-- Row 2 -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://reactnative.dev/img/header_logo.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45"/></a>
-
-<br><br>
-
-<!-- Row 3 -->
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45"/></a>
-
-<br><br>
-
-<!-- Row 4 -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="45"/></a>
-
-<br><br>
-
-<!-- Row 5 -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AchyutPaliwal&show_icons=true&theme=radical" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutPaliwal&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
-## 🚀 What I Build
-
-- Full-stack websites & dashboards  
-- Android & iOS mobile apps  
-- API-driven systems  
-- Authentication systems (Clerk, Firebase Auth, JWT)  
-- Real-time apps using WebSockets  
-- Databases (MySQL, PostgreSQL, Firebase, MongoDB)  
-- High-performance backend systems  
-
----
-
-<p align="center"><strong>⭐ If you like my work, consider starring my repositories! ⭐</strong></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyut2009&show_icons=true&locale=en&layout=compact" alt="achyut2009" /></p>
