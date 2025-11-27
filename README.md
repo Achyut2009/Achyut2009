@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achyut Paliwal</h1>
 <h3 align="center">A 16yo, Full-Stack developer, mobile applications builder, DSA learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achyut2009&label=Profile%20views&color=0e75b6&style=flat" alt="achyut2009" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyut2009" alt="achyut2009" /></a> </p>
 
 - 🌱 I’m currently learning **React Native + Flutter and Dart**
