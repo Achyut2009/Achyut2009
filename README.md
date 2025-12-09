@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyut2009" alt="achyut2009" /></a> </p>
 
-- 🌱 I’m currently learning **React Native + Flutter and Dart**
+- 🌱 I’m currently learning **React Native + Flutter and Dart, GraphQL, and working on RESTFUL API's**
 
 - 💬 Ask me about **react, next, typescript**
 
