@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native + Flutter and Dart, GraphQL, and working on RESTFUL API's**
 
-- 💬 Ask me about **react, next, typescript**
+- 💬 Ask me anything about **React, Typescript, git, Python, REST API'S**
 
 - 📫 How to reach me **achyutkpaliwal@gmail.com**
 
