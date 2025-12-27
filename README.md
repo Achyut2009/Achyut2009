@@ -4,7 +4,7 @@
 
 - **Changing the Future of DevOps and Backend forever**
 
-- 🌱 I’m currently learning **React Native + Flutter and Dart, GraphQL, and working on RESTFUL API's**
+- 🌱 I’m currently learning **Linux OS, GraphQL, and working on RESTFUL API's**
 
 - 💬 Ask me anything about **React, Typescript, git, Python, REST API'S**
 
