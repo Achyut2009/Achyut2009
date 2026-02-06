@@ -4,7 +4,7 @@
 
 - **Changing the Future of DevOps/Cloud deployment and Backend forever**
 
-- 🌱 I’m currently learning **Linux OS, GraphQL, AI/ML, and working on RESTFUL API's**
+- 🌱 I’m currently learning **Linux OS, GraphQL, AI Tooling, AI/ML, and working on RESTFUL API's**
 
 - 💬 Ask me anything about **React, Typescript, git, Python, REST API'S**
 
