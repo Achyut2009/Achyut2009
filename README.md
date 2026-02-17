@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achyut Paliwal</h1>
-<h3 align="center">A 16yo, Full-Stack developer, website & mobile applications builder, AI/ML & DSA learner.</h3>
+<h3 align="center">A 16yo, Full-Stack developer, Deep Learning, AI/ML & DSA learner.</h3>
 
 
 - **Changing the Future of DevOps/Cloud deployment and Backend forever**
